@@ -29,6 +29,10 @@ On the tech side, I'm enthusiastic about every technology to bridge the virtual 
 
 As for my personality, I'm always fascinated by the opportunities to build systems from scratch and witness the real applications. I love challenges and I believe one of the meanings of life come from the efforts to challenge our limits. Every time I step out of my comfort zone, my knowledge and capability expand significantly.
 
+<!-- <p align="center">
+  {% include social.html %}
+</p> -->
+
 <br>
 
 ---
@@ -229,3 +233,9 @@ Mar 2020 - May 2020
       allowfullscreen="">
   </iframe>
 </p>
+
+<br>
+
+---
+
+<br>
