@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 干锅花菜
+title: 干锅花菜 Dry Pot Califlower
 description: 2022-05-17
 img: assets/img/food/2022-05-17-gan-guo-hua-cai.jpg
 importance: 4
