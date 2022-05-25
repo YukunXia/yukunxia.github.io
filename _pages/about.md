@@ -67,6 +67,8 @@ As for my personality, I'm always fascinated by the opportunities to build syste
 
 Mar 2022 - Apr 2022
 
+Collaborator: Yuqing Qin
+
 - Course project for 16-889 "Learning for 3D Vision"
 - Quantitatively and qualitatively compared dense multi-view reconstruction quality of COLMAP, MVSNet and NeRF in customized challenging scenes
 - Stored some of our CMU memories into neural represented 3D worlds
@@ -87,6 +89,8 @@ Mar 2022 - Apr 2022
 ## Autonomous Mapping and Exploration in a Simulated Farmland
 
 Mar 2022 - Apr 2022
+
+Collaborator: Calen Robinson
 
 - Course project for 16765-A "Special Topics: Robotics & AI for Agriculture"
 - Built a farmland simulation environment and tested autonomous exploration with a Clearpath Husky robot and a 3D lidar
@@ -119,6 +123,8 @@ Mar 2022 - Apr 2022
 
 Oct 2021 - Dec 2021
 
+Collaborator: Yuqing Qin
+
 - Course project for 11-767 "On-Device Machine Learning"
 - Retrained SuperPoint models with different configurations, deployed them on a Jetson Nano
 - Tested the trade-off between performance and energy efficiency on the KITTI dataset
@@ -146,6 +152,8 @@ Oct 2021 - Dec 2021
 
 Oct 2020 - Nov 2021
 
+Collaborator: Calen Robinson, Gitaek Lee, Jinkun Liu, Thomas Xu 
+
 - This is a team capstone project, sponsored by Omron Robotics
 - Conducted Agile teamwork and developed ROS programs in C++
 - Built a factory simulation environment in Gazebo with mobile robots, forklifts and pedestrians
@@ -159,6 +167,8 @@ Oct 2020 - Nov 2021
 ## Reimplementation of V-LOAM
 
 Mar 2021 - May 2021
+
+Collaborator: Ivan Cisneros, Shuqin Xie, Xinjie Yao
 
 - Course project for 16-833 "Robot Localization and Mapping"
 - Extracted and matched features from images; estimated continuous depth map from point cloud; optimized frame-to-frame motion with Ceres
