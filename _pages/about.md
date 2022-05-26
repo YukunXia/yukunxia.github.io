@@ -204,6 +204,26 @@ Apr 2021 - Apr 2021
     </figcaption>
 </p>
 
+## Autonomous Exploration Development Environment
+
+Sept 2020 - January 2021
+
+Independent Study Advised by Ji Zhang
+
+- Built a dense resonctruction of CMU campus to test robot exploration algorithms
+- Refined simulation environments in Blender
+- Wrote a literature review for multiple robot exploration
+
+
+<p align="center">
+    <img src="/assets/img/projects/ground-based-autonomy-00.png" width="500">
+    <figcaption align = "center">
+      <b> The reconstructed CMU campus</b>
+    </figcaption>
+</p>
+
+[Project Website](https://www.cmu-exploration.com/)
+
 ## Real-time MPC with iLQR for Self-Driving in Carla
 
 Apr 2020 - Jun 2020
