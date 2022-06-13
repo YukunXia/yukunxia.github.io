@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 麻婆豆腐 Mapo Tofu
-description: 2022-05-31
+description: 2022-06-11
 img: assets/img/food/2022-06-11-ma-po-dou-fu-0.jpg
 importance: 4
 category: food
